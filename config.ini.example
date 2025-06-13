@@ -1,0 +1,9 @@
+[settings]
+target_host = 8.8.8.8
+interval_seconds = 300
+
+[server]
+api_url = YOUR_API_URL
+
+[agent]
+id = YOUR_AGENT_ID
